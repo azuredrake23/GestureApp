@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">GesturesApplication</string>
+    <string name="accessibility_service_label">Accessibility service</string>
+</resources>
